@@ -1,0 +1,23 @@
+{
+    "name": "RUBLE - Invitation in Monopoly",
+    "description": "Playing with friends, rating, bond, free earnings, all this in Monopoly GAME ONLINE",
+    "image": "https://i.postimg.cc/mDDGq6kC/photo-2024-04-06-11-07-33.jpg",
+    "attributes": [
+      {
+        "trait_type": "Card bonus",
+        "value": "50000 MONO"
+      },
+      {
+        "trait_type": "Game",
+        "value": "Monopoly"
+      },
+      {
+        "trait_type": "Access",
+        "value": "VIP"
+      },
+      {
+        "trait_type": "Network",
+        "value": "TON"
+      }
+    ]
+  }
